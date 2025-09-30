@@ -33,7 +33,7 @@ Meskipun proyek ini utamanya adalah tugas akhir, **kontribusi** selalu diterima.
 ## 📦 Cara Melihat dan Menggunakan
 
 Anda dapat mengakses laman web yang sudah di-deploy di URL berikut:
-> https://www.youtube.com/watch?v=496mPBNdfGA
+> https://dhni-mad.github.io/kapita-selekta-site/
 
 ### Untuk Mengunduh Kode Sumber
 
