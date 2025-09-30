@@ -40,4 +40,4 @@ Anda dapat mengakses laman web yang sudah di-deploy di URL berikut:
 Jika Anda ingin meng-clone *repository* ini ke komputer lokal Anda, gunakan perintah berikut di Terminal atau Git Bash:
 
 ```bash
-git clone [https://github.com/](https://github.com/)[username-anda]/[nama-repo-anda].git
+git clone  https://github.com/dhni-mad/kapita-selekta-site.git
